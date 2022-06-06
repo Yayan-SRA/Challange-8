@@ -8,4 +8,4 @@ Deploy to Heroku:
   - main
   script:
   - gem install dpl
-  - dpl --provider=heroku --app=lat-chall08 --api-key=dfeb44b9-f5e6-43f6-b7af-cfb22ee1f08e
+  - dpl --provider=heroku --app=$HEROKU_APP_PRODUCTION --api-key=$HEROKU_API_KEY
