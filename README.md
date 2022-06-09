@@ -11,3 +11,4 @@ Sofyan Rizki Afandy - FSW9
 7. Login (POST) = https://challenge-008.herokuapp.com/v1/auth/login
 8. Register (POST) = https://challenge-008.herokuapp.com/v1/auth/register
 9. Who Am I (GET) = https://challenge-008.herokuapp.com/v1/auth/whoami
+10. Documentation (Swagger) = https://challenge-008.herokuapp.com/documentation
